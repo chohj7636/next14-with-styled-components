@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="42">
+    <defs>
+        <style>
+            .thumb-3,.thumb-5{fill:#fff;stroke:#7851e7;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}.thumb-5{fill:none}
+        </style>
+    </defs>
+    <g id="icon_Thumb" transform="translate(-274 -2023)">
+        <path id="사각형_7066" data-name="사각형 7066" transform="translate(282.5 2045.5)" style="fill:#fff" d="M0 0h21.5v17H0z"/>
+        <path id="패스_2112" data-name="패스 2112" d="M290.449 193.864v1.545a.682.682 0 0 1-.684.678h-6a.682.682 0 0 1-.685-.678V175.7a.681.681 0 0 1 .685-.678h6a.681.681 0 0 1 .684.678v18.168z" transform="translate(-8.082 1867.914)" style="stroke:#7851e7;fill:#e8dcfd"/>
+        <path id="패스_2113" data-name="패스 2113" class="thumb-3" d="M333.381 185.311h2.456a2.347 2.347 0 1 1 0 4.692h-7.71" transform="translate(-29.263 1863.108)"/>
+        <path id="패스_2114" data-name="패스 2114" class="thumb-3" d="M328.127 194.076h6.156a3.456 3.456 0 0 1 .371.019 2.387 2.387 0 1 1-.371 4.758h-3.208" transform="translate(-29.263 1859.016)"/>
+        <path id="패스_2115" data-name="패스 2115" class="thumb-3" d="M312.624 203.034h3.853c3.67 0 3.67 4.56 0 4.56h-6.845c-.423 0-.849-.011-1.273-.035l-11.276-.617" transform="translate(-14.666 1854.835)"/>
+        <path id="패스_2116" data-name="패스 2116" class="thumb-3" d="M296.987 169.69c3.59-.432 7.085-2.378 7.469-5.925.1-.888.149-2.778.179-3.934a1.752 1.752 0 0 1 1.773-1.527h0c3.31 0 4.674 1.519 4.358 5.235l-.41 4.388h8.38c3.054 0 3.054 4.777 0 4.777h-6.16" transform="translate(-14.62 1875.716)"/>
+        <path id="패스_2117" data-name="패스 2117" d="M290.449 193.864v1.545a.682.682 0 0 1-.684.678h-6a.682.682 0 0 1-.685-.678V175.7a.681.681 0 0 1 .685-.678h6a.681.681 0 0 1 .684.678v18.168z" transform="translate(-8.082 1867.914)" style="stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;stroke:#7851e7;fill:#e8dcfd"/>
+        <path id="선_3" data-name="선 3" class="thumb-5" transform="translate(292.66 2024)" d="m0 0 .001 5.676"/>
+        <path id="선_4" data-name="선 4" class="thumb-5" transform="translate(283.573 2027.72)" d="m0 0 4.062 4.012"/>
+        <path id="선_5" data-name="선 5" class="thumb-5" transform="translate(279.811 2036.698)" d="M0 .001 5.742 0"/>
+        <path id="선_6" data-name="선 6" class="thumb-5" transform="translate(299.767 2036.698)" d="M5.743 0 0 .001"/>
+        <path id="선_7" data-name="선 7" class="thumb-5" transform="translate(297.687 2027.72)" d="M4.06 0 0 4.014"/>
+    </g>
+</svg>

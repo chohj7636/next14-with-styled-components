@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76" height="60.999">
+    <defs>
+        <style>
+            .shop-1-1{fill:#e8dcfd}.shop-1-2{fill:none;stroke:#7851e7;stroke-linecap:round;stroke-miterlimit:10;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="icon_shop1" transform="translate(1 1)">
+        <path id="패스_2256" data-name="패스 2256" class="shop-1-1" d="M337.9 66.116a13.045 13.045 0 1 1-13.485 13.04 12.9 12.9 0 0 1 5.757-10.684 13.724 13.724 0 0 1 7.728-2.356zm2.866 7.985a2.865 2.865 0 1 0-2.866 2.844 2.855 2.855 0 0 0 2.871-2.845z" transform="translate(-277.388 -33.192)"/>
+        <path id="패스_2257" data-name="패스 2257" class="shop-1-1" d="M308.424 24.247a13.266 13.266 0 0 1 13.485 13.038 13.491 13.491 0 0 1-26.966 0 13.263 13.263 0 0 1 13.481-13.038zM311.2 32.4a2.778 2.778 0 1 0-2.778 2.751A2.764 2.764 0 0 0 311.2 32.4z" transform="translate(-271.426 -24.247)"/>
+        <path id="패스_2258" data-name="패스 2258" class="shop-1-1" d="M292.428 79.154a13.491 13.491 0 1 1-13.482-13.04 13.756 13.756 0 0 1 7.246 2.041 12.932 12.932 0 0 1 6.236 10.999zm-10.707-4.885a2.777 2.777 0 1 0-2.775 2.749 2.761 2.761 0 0 0 2.775-2.749z" transform="translate(-265.462 -33.192)"/>
+        <path id="패스_2259" data-name="패스 2259" class="shop-1-2" d="M313.919 33.865a2.778 2.778 0 1 1-2.778-2.748 2.765 2.765 0 0 1 2.778 2.748z" transform="translate(-274.141 -25.715)"/>
+        <path id="패스_2260" data-name="패스 2260" class="shop-1-2" d="M321.909 37.285a13.491 13.491 0 0 1-26.966 0 13.491 13.491 0 0 1 26.966 0z" transform="translate(-271.426 -24.247)"/>
+        <path id="패스_2261" data-name="패스 2261" class="shop-1-2" d="M304.515 47.035a6.121 6.121 0 0 1 11.691 0" transform="translate(-273.362 -28.196)"/>
+        <path id="패스_2262" data-name="패스 2262" class="shop-1-2" d="M343.464 75.5a2.865 2.865 0 1 1-2.866-2.843 2.855 2.855 0 0 1 2.866 2.843z" transform="translate(-280.082 -34.589)"/>
+        <path id="패스_2263" data-name="패스 2263" class="shop-1-2" d="M330.177 68.47a13.724 13.724 0 0 1 7.727-2.354 13.045 13.045 0 1 1-13.485 13.04v0a12.9 12.9 0 0 1 5.758-10.686z" transform="translate(-277.388 -33.192)"/>
+        <path id="패스_2264" data-name="패스 2264" class="shop-1-2" d="M334 89.089a6.063 6.063 0 0 1 11.691 0" transform="translate(-279.325 -37.149)"/>
+        <path id="패스_2265" data-name="패스 2265" class="shop-1-2" d="M278.883 75.737a2.777 2.777 0 1 0 2.778-2.748 2.762 2.762 0 0 0-2.778 2.748z" transform="translate(-268.177 -34.661)"/>
+        <path id="패스_2266" data-name="패스 2266" class="shop-1-2" d="M286.192 68.157a13.756 13.756 0 0 0-7.246-2.041 13.045 13.045 0 1 0 13.482 13.04v0a12.932 12.932 0 0 0-6.236-10.999z" transform="translate(-265.462 -33.192)"/>
+        <path id="패스_2267" data-name="패스 2267" class="shop-1-2" d="M275.038 88.906a6.119 6.119 0 0 1 11.69 0" transform="translate(-267.399 -37.141)"/>
+        <path id="선_37" data-name="선 37" class="shop-1-2" transform="translate(47.151 25.806)" d="M5.637 9.472 0 0"/>
+        <path id="선_38" data-name="선 38" class="shop-1-2" transform="translate(20.73 26.15)" d="M5.233 0 0 8.814"/>
+        <path id="선_39" data-name="선 39" class="shop-1-2" transform="translate(26.966 45.964)" d="M20.066 0H0"/>
+    </g>
+</svg>
